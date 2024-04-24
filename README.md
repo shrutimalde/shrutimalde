@@ -6,7 +6,7 @@
 <h1 align="center">
   <samp>💫 I'm Shruti Malde & welcome to my GitHub profile!</samp>
   <span align="right"> 
-    <img src="https://komarev.com/ghpvc/?username=shrutimalde&label=Profile%20views&color=0e75b6&style=flat" alt="shrutimalde" />
+    <img src="https://komarev.com/ghpvc/?username=shrutimalde&label=Profile%20views&color=6e64bc&style=flat" alt="shrutimalde" />
   </span> 
 </h1>
 <h3 align="center"><i>Passionate about creating intuitive user experiences </i></h3>
@@ -25,13 +25,14 @@
 <br>
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutimalde&show_icons=true&locale=en&layout=compact" alt="shrutimalde" /></p>
 
+
 <h3 align="right">Connect with me:</h3>
 <p align="right">
-  <a href="https://instagram.com/shrutiafk" target="blank"><img align="center" src="https://github.com/shrutimalde/shrutimalde/assets/59139754/1a695be8-bba5-4b9e-b8d9-ce7d08495aac" alt="shrutiafk" height="32" width="30" /></a>
+  <a href="https://instagram.com/shrutiafk" target="blank"><img align="center" src="https://github.com/shrutimalde/shrutimalde/assets/59139754/1a695be8-bba5-4b9e-b8d9-ce7d08495aac" alt="shrutiafk" height="33" width="33" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/shruti-malde" target="blank"><img align="center" src="https://github.com/shrutimalde/shrutimalde/assets/59139754/7caa2c26-fbb3-44ef-b1e9-3d29648b4705" alt="shruti-malde" height="32" width="30" /></a>
+  <a href="https://linkedin.com/in/shruti-malde" target="blank"><img align="center" src="https://github.com/shrutimalde/shrutimalde/assets/59139754/7caa2c26-fbb3-44ef-b1e9-3d29648b4705" alt="shruti-malde" height="30" width="30" /></a>
 </p>
 
-
+$\normalsize\color{#6e64bc}{\textit{If you find my profile interesting, consider starring this project on GitHub ⭐}}$
 
 
