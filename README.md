@@ -34,5 +34,5 @@
   <a href="https://linkedin.com/in/shruti-malde" target="blank"><img align="center" src="https://github.com/shrutimalde/shrutimalde/assets/59139754/7caa2c26-fbb3-44ef-b1e9-3d29648b4705" alt="shruti-malde" height="30" width="30" /></a>
 </p>
 
-$\normalsize\color{#6e64bc}{\texttt{If you find my profile interesting, consider starring this project on GitHub ⭐}}$
+<p>$\normalsize\color{#6e64bc}{\texttt{If you find my profile interesting, consider starring this project on GitHub ⭐}}$</p>
 
