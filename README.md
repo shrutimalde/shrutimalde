@@ -11,7 +11,7 @@
 </h1>
 <h3 align="center"><i>Passionate about creating intuitive user experiences </i></h3>
 <br>
-<img align="right" alt="Coding" width="400" src="https://github.com/shrutimalde/shrutimalde/blob/main/programmer.svg">
+<img align="right" alt="Coding" width="400" src="./programmer.svg">
 
 - 🔭 I’m currently working on **a community site**
 
