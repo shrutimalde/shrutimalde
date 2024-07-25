@@ -13,7 +13,7 @@
 <br>
 <img align="right" alt="Coding" width="400" src="./programmer.svg">
 
-- 🔭 I’m currently working on **a community site**
+- 🔭 I’m currently working on **A Textile App**
 
 - 🌱 I’m currently learning **React Native**
 
